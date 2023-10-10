@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Brix's Page</title>
+        <style>
+                body {
+                            background-color: brown;
+
+                                        text-align: center;
+                                                }
+                                                        .banner {
+                                                                    background-color: white;
+                                                                                padding: 10px;
+                                                                                        }
+                                                                                                .profile-image {
+                                                                                                            max-width: 300px;
+                                                                                                                    }
+                                                                                                                            .social-link {
+                                                                                                                                        margin: 10px;
+                                                                                                                                                }
+                                                                                                                                                    </style>
+                                                                                                                                                    </head>
+                                                                                                                                                    <body>
+                                                                                                                                                        <h1>Hello, it's me Brix</h1>
+                                                                                                                                                            <p>I have relatives with rats; Up and coming Game Developer</p>
+                                                                                                                                                                <div class="banner">
+                                                                                                                                                                        <h2>My Socials</h2>
+                                                                                                                                                                            </div>
+                                                                                                                                                                                <div class="social-links">
+                                                                                                                                                                                        <a href="https://www.facebook.com/brix.castro.100?mibextid=LQQJ4d" class="social-link">
+                                                                                                                                                                                                    <img src="facebook-logo.png" alt="Facebook">
+                                                                                                                                                                                                            </a>
+                                                                                                                                                                                                                    <a href="https://instagram.com/brix.bda?igshid=OGQ5ZDc2ODk2ZA==" class="social-link">
+                                                                                                                                                                                                                                <img src="instagram-logo.png" alt="Instagram">
+                                                                                                                                                                                                                                        </a>
+                                                                                                                                                                                                                                                <a href="https://spotify.link/cD5t18kLMDb" class="social-link">
+                                                                                                                                                                                                                                                            <img src="spotify-logo.png" alt="Spotify">
+                                                                                                                                                                                                                                                                    </a>
+                                                                                                                                                                                                                                                                        </div>
+                                                                                                                                                                                                                                                                            <a href="https://images.app.goo.gl/hm3vZA4qQxSKyDva6">
+                                                                                                                                                                                                                                                                                    <img src="mitski-photo.jpg" alt="Mitski" class="profile-image">
+                                                                                                                                                                                                                                                                                        </a>
+                                                                                                                                                                                                                                                                                            <audio controls>
+                                                                                                                                                                                                                                                                                                    <source src="mitski-washing-machine-heart.mp3" type="audio/mpeg">
+                                                                                                                                                                                                                                                                                                            Your browser does not support the audio element.
+                                                                                                                                                                                                                                                                                                                </audio>
+                                                                                                                                                                                                                                                                                                                </body>
+                                                                                                                                                                                                                                                                                                                </html>
